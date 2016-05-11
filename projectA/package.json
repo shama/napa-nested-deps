@@ -1,0 +1,17 @@
+{
+  "name": "projectA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "napa"
+  },
+  "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "license": "MIT",
+  "dependencies": {
+    "napa": "^2.3.0"
+  },
+  "napa": {
+    "qunit": "jquery/qunit#1.14.0"
+  }
+}
