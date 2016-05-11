@@ -1,4 +1,4 @@
-# nested dependency example with napa
+# nested dependency example with [napa](https://github.com/shama/napa)
 
 This shows how one would use napa with nested dependencies:
 
